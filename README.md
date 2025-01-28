@@ -35,7 +35,7 @@
 | :--- |
 | <img src="https://skillicons.dev/icons?i=typescript,javascript,vuejs,react,nodejs,css,html,postgresql,prisma,tailwindcss,supabase,googleappsscript" />|
 | 🛠️ Tools |
-| <img src="https://skillicons.dev/icons?i=git,github,npm,firebase,googlecloud,vscode,expo,jest,webpack,docker,redis" />|
+| <img src="https://skillicons.dev/icons?i=git,github,npm,firebase,googlecloud,vscode,webpack,docker,redis,vercel" />|
 
 
 <br>
@@ -62,6 +62,8 @@ fun main() {
 
 
 ### 📩 Let's Talk:
+<a href="https://www.linkedin.com/in/michael-haye" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Haye-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="mailto:karim@kotect.com" target="_blank"><img src="https://img.shields.io/badge/-connect@mikehaye.com-0077B5?style=for-the-badge&logo=Gmail"/></a>
 
 
 <br>
@@ -69,7 +71,7 @@ fun main() {
 
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
-<img src="https://encept-github-status.vercel.app/api/wakatime?username=@mhaye20&theme=transparent" alt="Mike's WakaTime stats" />
+<figure><embed src="https://wakatime.com/share/@1622f87a-2a33-4707-b819-f1aec5c67f96/46792f8e-aa22-4903-897e-29cf2ea25a11.svg"></embed></figure>
 
 <details><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
