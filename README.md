@@ -3,7 +3,7 @@ Welcome to Mike Haye's profile!
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Full-Stack+Developer+Using+Vue+%26+React.;Scalable+Applications.;Cloud+Technologies+%7C+AI/ML+%7C+DevOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Full+Stack+Developer+Using+Vue+%26+React.;Scalable+Applications.;Cloud+Technologies+%7C+AI/ML+%7C+DevOps" alt="Typing SVG" /></a>
 </p>
 
 
