@@ -71,15 +71,15 @@ fun main() {
 
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
-<img src="https://wakatime.com/share/@1622f87a-2a33-4707-b819-f1aec5c67f96/46792f8e-aa22-4903-897e-29cf2ea25a11.svg" alt="Mike's Coding Activity" />
+<img src="https://github-stats-two-lac.vercel.app/api/wakatime?username=@mhaye20&theme=transparent" alt="Mike's WakaTime stats" />
 
 <details><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
-	<img src="https://encept-github-status.vercel.app/api/top-langs?username=mhaye20&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="mhaye20" />
+	<img src="https://github-stats-two-lac.vercel.app/api/top-langs?username=mhaye20&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="mhaye20" />
 	<br><br>
  	<h3>Github Stats:</h3>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="mhaye20's Github Stats" src="https://encept-github-status.vercel.app/api?username=mhaye20&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+	    <img alt="mhaye20's Github Stats" src="https://github-stats-two-lac.vercel.app/api?username=mhaye20&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
 	</a>
 	<br><br>
  	<h3>My Streak:</h3>
