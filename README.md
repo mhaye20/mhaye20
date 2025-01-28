@@ -16,13 +16,6 @@ Welcome to Mike Haye's profile!
 
 ### ℹ️ About Me
 | 🏢 | I'm a **Full Stack developer** who creates **efficient** and **impactful** solutions that work effortlessly. |
-| :--- | :--- |
-| 💬 | Ask me about my experience with **digital transformation strategies**, **leveraging emerging technologies**, or **optimizing business processes for scalability and efficiency**. |
-| ⚡ | I am passionate about solving complex problems and driving impactful tech solutions. |
-| 📍 | I'm located in **Brooklyn, NY**. |
-
-### ℹ️ About Me
-| 🏢 | I'm a **Full Stack developer** who creates **efficient** and **impactful** solutions that work effortlessly. |
 | --- | --- |
 | ⚡ | I am passionate about solving complex problems and driving impactful tech solutions. |
 | 💬 | Ask me about my experience with **digital transformation strategies**, **leveraging emerging technologies**, or **optimizing business processes for scalability and efficiency**. |
