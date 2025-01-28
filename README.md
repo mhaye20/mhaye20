@@ -14,7 +14,7 @@ Welcome to Mike Haye's profile!
 <br>
 
 
-### ℹ️ About Me
+### ℹ️ About Me (<a href="Mike Haye_CV.pdf" target="_blank">View My CV</a>)
 | 🏢 | I'm a **Full Stack developer** who creates **efficient** and **impactful** solutions that work effortlessly. |
 | :--- | :--- |
 | ⚡ | I am passionate about solving complex problems and driving impactful tech solutions. |
