@@ -33,9 +33,9 @@
 ### 🎯 &nbsp;My Skills
 | 💻 Languages & Frameworks |
 | :--- |
-| <img src="https://skillicons.dev/icons?i=kotlin,java,php,mysql,sqlite,ktor,py,cpp,html,css,mongodb,laravel" />|
+| <img src="https://skillicons.dev/icons?i=typescript,javascript,vuejs,react,nodejs,css,html,postgresql,prisma,tailwindcss,supabase,googleappsscript" />|
 | 🛠️ Tools |
-| <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,webstorm,pycharm,vscode,gradle,github,git,md,firebase,devto,linkedin,discord,bots,postman,windows,linux,powershell,stackoverflow,gcp,replit,notion,graphql&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=git,github,npm,firebase,googlecloud,vscode,expo,jest,webpack,docker,redis" />|
 
 
 <br>
