@@ -21,8 +21,7 @@ Welcome to Mike Haye's profile!
 |⚡ I am passionate about solving complex problems and driving impactful tech solutions.|
 |📍 I'm located in **Brooklyn, NY**.|
 
-> I am a full-stack developer with expertise in Google Cloud and process automation. I am passionate about solving complex problems and driving impactful tech solutions.
-
+> Full Stack Developer with 8 years in healthcare and business services, known for hands-on leadership and making tech work seamlessly for business.
 
 <br>
 
