@@ -79,7 +79,7 @@ fun main() {
 	<br><br>
  	<h3>Github Stats:</h3>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="mhaye20's Github Stats" src="https://github-stats-two-lac.vercel.app/api?username=mhaye20&show_icons=true&hide_rank=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+	    <img alt="mhaye20's Github Stats" src="https://github-stats-two-lac.vercel.app/api?username=mhaye20&show_icons=true&rank_icon=github&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
 	</a>
 	<br><br>
  	<h3>My Streak:</h3>
