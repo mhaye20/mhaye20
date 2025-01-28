@@ -67,18 +67,16 @@ fun main() {
 
 
 ## 🎖️ My Statistics:
-<h3>Coding Time:</h3>
-<img src="https://github-stats-two-lac.vercel.app/api/wakatime?username=@mhaye20&theme=transparent" alt="Mike's WakaTime stats" />
- 	<h3>Top Languages:</h3>
-	<img src="https://github-stats-two-lac.vercel.app/api/top-langs?username=mhaye20&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="mhaye20" />
-	<br><br>
- 	<h3>Github Stats:</h3>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="mhaye20's Github Stats" src="https://github-stats-two-lac.vercel.app/api?username=mhaye20&show_icons=true&rank_icon=github&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
-	</a>
-	<br><br>
- 	<h3>My Streak:</h3>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaye20&theme=transparent" alt="mhaye20" />
+ <h3>Top Languages:</h3>
+<img src="https://github-stats-two-lac.vercel.app/api/top-langs?username=mhaye20&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="mhaye20" />
+<br><br>
+ <h3>Github Stats:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="mhaye20's Github Stats" src="https://github-stats-two-lac.vercel.app/api?username=mhaye20&show_icons=true&rank_icon=github&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+</a>
+<br><br>
+ <h3>My Streak:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaye20&theme=transparent" alt="mhaye20" />
 
 
 <br>
