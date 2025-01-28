@@ -71,7 +71,7 @@ fun main() {
 
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
-<figure><embed src="https://wakatime.com/share/@1622f87a-2a33-4707-b819-f1aec5c67f96/46792f8e-aa22-4903-897e-29cf2ea25a11.svg"></embed></figure>
+<img src="https://wakatime.com/share/@1622f87a-2a33-4707-b819-f1aec5c67f96/46792f8e-aa22-4903-897e-29cf2ea25a11.svg" alt="Mike's Coding Activity" />
 
 <details><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
