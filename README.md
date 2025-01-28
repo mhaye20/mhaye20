@@ -46,7 +46,7 @@ fun main() {
     while (Alive) {
         code()
 	fixBugs()
-	loveKotlin()
+	loveCat()
         sleep()
         repeat()
     }
@@ -59,7 +59,7 @@ fun main() {
 
 
 ### 📩 Let's Talk:
-<a href="https://www.linkedin.com/in/michael-haye" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Haye-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/michael-haye" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin"/></a>
 <a href="mailto:karim@kotect.com" target="_blank"><img src="https://img.shields.io/badge/-connect@mikehaye.com-0077B5?style=for-the-badge&logo=Gmail"/></a>
 
 
