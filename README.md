@@ -21,7 +21,10 @@ Welcome to Mike Haye's profile!
 |⚡ I am passionate about solving complex problems and driving impactful tech solutions.|
 |📍 I'm located in **Brooklyn, NY**.|
 
-> Full Stack Developer with 8 years in healthcare and business services, known for hands-on leadership and making tech work seamlessly for business.
+> Full Stack Developer with 8 years in healthcare and business services, known for hands-on leadership and making tech work seamlessly for business. Led projects like Casey, a HIPAA-compliant platform built with Vue.js and Google Cloud, leveraging diverse experiences to solve real-world challenges and drive impactful innovation.
+
+<br>Portfolio: https://mikehaye.com
+
 
 <br>
 
