@@ -1,16 +1,9 @@
-<h3 align="center">
-  <a href="https://github.com/mhaye20/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
-  <a href="https://komarev.com/ghpvc/?username=mhaye20"><img src="https://komarev.com/ghpvc/?username=mhaye20"></a>
-  <a href="https://wakatime.com/@018d361c-db8c-49ff-b17e-4b367310d84d"><img src="https://wakatime.com/badge/user/018d361c-db8c-49ff-b17e-4b367310d84d.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24691%26project%3D%26in%3D0">
-
-
-  Welcome to Mike Haye's profile!
+Welcome to Mike Haye's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Android+Engineer+Using+Kotlin+%26+Java.;Backend+Developer.;Android+Engineer+%7C+Kotlin+%7C+Ktor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Full-Stack+Developer+Using+Vue+%26+React.;Scalable+Applications.;Cloud+Technologies+%7C+AI/ML+%7C+DevOps" alt="Typing SVG" /></a>
 </p>
 
 
