@@ -69,8 +69,6 @@ fun main() {
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
 <img src="https://github-stats-two-lac.vercel.app/api/wakatime?username=@mhaye20&theme=transparent" alt="Mike's WakaTime stats" />
-
-<details><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
 	<img src="https://github-stats-two-lac.vercel.app/api/top-langs?username=mhaye20&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="mhaye20" />
 	<br><br>
@@ -81,7 +79,6 @@ fun main() {
 	<br><br>
  	<h3>My Streak:</h3>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaye20&theme=transparent" alt="mhaye20" />
-</details>
 
 
 <br>
