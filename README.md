@@ -79,7 +79,7 @@ fun main() {
 </a>
 <br>
  <h3>My Streak:</h3>
-<img src="https://github-readme-streak-stats-puj7thdzv.vercel.app/?user=mhaye20&theme=transparent" alt="mhaye20" />
+<img src="https://github-readme-streak-stats-eight-inky.vercel.app/?user=mhaye20&theme=transparent" alt="mhaye20" />
 
 
 <br>
