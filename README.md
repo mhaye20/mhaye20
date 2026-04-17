@@ -48,8 +48,8 @@ Welcome to Mike Haye's profile!
 fun main() {
     while (Alive) {
         code()
-	fixBugs()
-	loveCat()
+	    fixBugs()
+	    loveCat()
         sleep()
         repeat()
     }
